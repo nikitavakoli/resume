@@ -1,0 +1,436 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.6.4)  4 JUN 2024 13:12
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/nikitavakoli/Desktop/My resume/cv_2.tex"
+(/Users/nikitavakoli/Desktop/My resume/cv_2.tex
+LaTeX2e <2024-06-01>
+L3 programming layer <2024-05-08>
+(res.cls
+Document Style `res' <26 Sep 89>.
+Document Class: res 2000/05/19 v1.4b Resume class
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/base/size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+No auxiliary output files.
+
+\tabular@text=\toks17
+\tabular@head=\toks18
+\tabular@tail=\toks19
+\@ta=\toks20
+\undefined@token=\toks21
+\sectionwidth=\dimen142
+\sectionskip=\skip51
+\resumewidth=\dimen143
+\@columnwidth=\dimen144
+\c@numberofcolumns=\count268
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+))
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/hyperref/hyperref.sty
+Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count269
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count270
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen145
+\Hy@linkcounter=\count271
+\Hy@pagecounter=\count272
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/hyperref/pd1enc.def
+File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count273
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/hyperref/puenc.def
+File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count274
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen146
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count275
+\Field@Width=\dimen147
+\Fld@charsize=\dimen148
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count276
+\c@Item=\count277
+\c@Hfootnote=\count278
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/hyperref/hpdftex.def
+File: hpdftex.def 2024-05-23 v7.01i Hyperref driver for pdfTeX
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count279
+\c@bookmark@seq@number=\count280
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/gene
+ric/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip52
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/l3backend-dev/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count281
+\l__pdf_internal_box=\box52
+)
+
+LaTeX Warning: Unused global option(s):
+    [10pt].
+
+(cv_2.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+\providecommand\hyper@newdestlabel[2]{}
+Package hyperref Info: Link coloring OFF on input line 17.
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/cont
+ext/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen151
+\scratchbox=\box53
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen152
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks24
+)
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/install/tex/late
+x/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<niki.png, id=3, 722.7pt x 505.89pt>
+File: niki.png Graphic file (type png)
+<use niki.png>
+Package pdftex.def Info: niki.png  used on input line 29.
+(pdftex.def)             Requested size: 72.26999pt x 50.58423pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 41.
+
+Overfull \hbox (15.84013pt too wide) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/10 Systems biology, computational oncology, mathematical modelin
+g, metabolic engineering,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--109
+
+ []
+
+
+
+[1
+
+{/Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/data/fonts/map/p
+dftex/pdftex.map} <./niki.png>]
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
+
+ []
+
+
+Overfull \hbox (30.31232pt too wide) in paragraph at lines 176--178
+\OT1/cmr/m/n/10 Imaging Informatics, Advanced Biomedical Systems, Scientific Co
+mputing and Visualization,
+ []
+
+
+Overfull \hbox (84.57565pt too wide) in paragraph at lines 176--178
+\OT1/cmr/bx/n/10 Undergraduate\OT1/cmr/m/n/10 : General & Organic Chemistry, Ce
+ll & Molecular Biology, Genetics/Evolution/Ecology,
+ []
+
+
+Overfull \hbox (7.47882pt too wide) in paragraph at lines 184--187
+\OT1/cmr/m/n/10 enumeration/counting on large-scale clusters using both shared 
+and distributed memory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--198
+
+ []
+
+
+
+[3]
+ ***********
+LaTeX2e <2024-06-01>
+L3 programming layer <2024-05-08>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 9103 strings out of 475872
+ 145581 string characters out of 5776484
+ 1939890 words of memory out of 5000000
+ 31613 multiletter control sequences out of 15000+600000
+ 560922 words of font info for 45 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 75i,8n,80p,372b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/data/fonts/pk
+/ljfour/public/cm/dpi600/cmti9.pk> </Users/nikitavakoli/Library/Application Sup
+port/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmbx9.pk> </Users/niki
+tavakoli/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/
+cm/dpi600/cmti10.pk> </Users/nikitavakoli/Library/Application Support/MiKTeX/te
+xmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk> </Users/nikitavakoli/
+Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi600
+/cmr10.pk> </Users/nikitavakoli/Library/Application Support/MiKTeX/texmfs/data/
+fonts/pk/ljfour/public/cm/dpi600/cmbx10.pk> </Users/nikitavakoli/Library/Applic
+ation Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi864/cmbx12.pk>
+Output written on cv_2.pdf (3 pages, 2021109 bytes).
+PDF statistics:
+ 269 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
